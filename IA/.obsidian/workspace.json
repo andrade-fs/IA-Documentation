@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "5875cc9cb9bed4a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "768a4db8371ac855",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2883784a0770871",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da2995089b64c070",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a67edf90dbcae1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d6f04215a9b37c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "628ed97d5f9047c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efaa472ef35b0a02",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bffdbc01ff22c2b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2946172497a0cf8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aeffff9483ce500",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eec421541053285c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "239eea6d998cc003",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "170ff229f03ae467",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f2883784a0770871",
+  "lastOpenFiles": [
+    "BIDA/Index - Big Data Aplicado.md",
+    "SIBD/Index - Sistemas de Big Data.md",
+    "SIAA/Index - Sistemas de Aprendizaje (Inteligencia Artificial).md",
+    "PRIA/Index - Programación de Inteligencia Artificial.md",
+    "MOIA/Index -  Modelos de Inteligencia Artificial.md",
+    "_data/inteligencia-artificial.jpg",
+    "_data/27774352598_ed9cfff30a_c.jpg",
+    "27774352598_ed9cfff30a_c.jpg",
+    "2022-11-02.md"
+  ]
+}
